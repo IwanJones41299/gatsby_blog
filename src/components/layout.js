@@ -3,11 +3,16 @@ import PropTypes from "prop-types";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Nav from "./Nav";
+import { Container } from "react-bootstrap";
 
 const Layout = ({ children }) => (
     <>
     <Nav />
-    <main>{ children }</main>
+    <main>
+        <Container>
+            { children }
+        </Container>
+    </main>
     </>
 );
 

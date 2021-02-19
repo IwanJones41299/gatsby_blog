@@ -1,0 +1,12 @@
+.Card{
+    height: 35vh;
+    width: 20vh;
+    
+    margin: auto;
+}
+
+.blog_img{
+    width: 15vh !important;
+    margin: auto;
+    margin-top: 5%;
+}

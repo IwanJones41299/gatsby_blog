@@ -2,7 +2,7 @@
 path: '/first_blog'
 date: '2021-01-01'
 title: 'My First Blog'
-author: 'Iwan Jones'
+author: 'Mark Huntlt'
 description: 'Setting up the blog'
 ---
 
